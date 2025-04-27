@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a junior front-end developer with a passion for modern web technologies and a commitment to <br>continuous learning. In addition to foundational skills in HTML, CSS, and Sass, I have<br>experience using powerful libraries such as JavaScript and React to create dynamic and user-friendly <br>web applications. My goal is to produce user-centric and aesthetically pleasing solutions with<br>these skills
+I’m a junior front-end developer with a passion for modern web technologies and a commitment to <br>continuous learning. In addition to foundational skills in HTML, CSS, and Sass, I have<br>experience using powerful libraries such as JavaScript and React to create dynamic and user-friendly <br>web applications. My goal is to produce user-centric and aesthetically pleasing solutions with<br>these skills. Currently, I’m expanding my skill set by learning backend technologies like Node.js and Express.js, aiming to become a full-stack developer and build more complete, scalable web applications.
 
 
 # 💻 Tech Stack:
